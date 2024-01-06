@@ -7,7 +7,7 @@ settings:
   connection-throttle: 500
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: BLAZEDMCDDDDD - THE SERVER WAS CLOSED
+  shutdown-message: BLAZEDMC - THE SERVER WAS CLOSED
   minimum-api: none
   use-map-color-cache: true
 spawn-limits:
