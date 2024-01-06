@@ -1,0 +1,24 @@
+settings:
+  use-alternate-keepalive: true
+world-settings:
+  default:
+    mobs:
+      dolphin:
+        ridable: false
+        controllable: true
+        spit:
+          cooldown: 20
+          speed: 1.0
+          damage: 2.0
+        attributes:
+          max_health: 10.0
+        disable-treasure-searching: true
+      zombie:
+        aggressive-towards-villager-when-lagging: false
+        bypass-mob-griefing: false
+        takes-damage-from-water: false
+        always-drop-exp: false
+        head-visibility-percent: 0.5
+        teleport-if-outside-border: true
+    gameplay-mechanics:
+      entities-can-use-portals: true

@@ -1,0 +1,31 @@
+messages:
+  whitelist: '&2❉ &aBLAZEDMC &fThe server is currently &2whitelisted&f!'
+  unknown-command: '&2❉ &aBLAZEDMC &fNot a command! Try &a/help'
+  server-full: '&2❉ &aBLAZEDMC &fThe server is full!'
+  outdated-client: '&2❉ &aBLAZEDMC &fPlease use version &a{0}'
+  outdated-server: '&2❉ &aBLAZEDMC &fPlease use version &a{0}'
+  restart: '&2❉ &aBLAZEDMC &7The server is being restarted...'
+world-settings:
+  default:
+    nerf-spawner-mobs: true
+    entity-activation-range:
+      animals: 16
+      monsters: 24
+      raiders: 48
+      misc: 8
+      water: 8
+      villagers: 16
+      flying-monsters: 48
+      tick-inactive-villagers: false
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      display: 128
+      other: 64
+    merge-radius:
+      item: 3.5
+      exp: 4.0
+    view-distance: 8
+    simulation-distance: 4

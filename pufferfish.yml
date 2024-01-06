@@ -1,0 +1,12 @@
+enable-books: true
+enable-suffocation-optimization: true
+enable-async-mob-spawning: true
+projectile:
+  max-loads-per-tick: 10
+  max-loads-per-projectile: 8
+dab:
+  enabled: true
+  start-distance: 12
+  max-tick-freq: 20
+  activation-dist-mod: 7
+inactive-goal-selector-throttle: true
